@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-myfp",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Custom ESLint Plugin for Consistency Code",
   "keywords": [
     "eslint",
@@ -13,7 +13,6 @@
     "test": "mocha tests --recursive"
   },
   "dependencies": {
-    "eslintcc": "^0.4.7",
     "requireindex": "~1.1.0"
   },
   "devDependencies": {
